@@ -1,0 +1,10 @@
+MIDlet-1: CUBIES II (Version 1.2), /icons/SuperCube.png, CubiesMain
+MIDlet-Description: The sequel to the highly successful CUBIES: A 2D Mobile Game released in March 2007.
+MIDlet-Icon: /icons/SuperCube.png
+MIDlet-Jar-Size: 1118497
+MIDlet-Jar-URL: CUBIES II (Version 1.2).jar
+MIDlet-Name: CUBIES II (Version 1.2)
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

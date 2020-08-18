@@ -1,0 +1,5 @@
+-libraryjars C:\WTK2.5.2_01\lib\wma20.jar;C:\WTK2.5.2_01\lib\mmapi.jar;C:\WTK2.5.2_01\lib\midpapi20.jar;C:\WTK2.5.2_01\lib\cldcapi11.jar
+-injars C:\Users\cubies2003\j2mewtk\2.5.2\apps\CUBIES III (Version 1.3)\bin\CUBIES III (Version 1.3).jar
+-outjar C:\Users\CUBIES~2\AppData\Local\Temp\CUBIES III (Version 1.3).jar
+-keep public class * extends javax.microedition.midlet.MIDlet 
+-dontusemixedcaseclassnames
